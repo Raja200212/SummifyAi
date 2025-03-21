@@ -1,0 +1,25 @@
+.auth-box {
+    background-color: #0d1117;
+    width: 350px;
+  }
+  
+  .input-field {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    color: white;
+  }
+  
+  .input-field:focus {
+    background-color: #161b22;
+    color: white;
+    border-color: #58a6ff;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .text-secondary {
+    color: #8b949e;
+  }
+  
